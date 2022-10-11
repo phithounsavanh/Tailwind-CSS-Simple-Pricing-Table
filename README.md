@@ -4,6 +4,8 @@ This project is for learning purpose. Learning how to design a pricing table pag
 
 Watch how to create a  pricing table page on YouTube Now - https://youtu.be/LvKjWuD7Aw0
 
+![alt tag](https://raw.githubusercontent.com/phithounsavanh/Tailwind-CSS-Simple-Pricing-Table/master/images/pricing_table_design.png) 
+
 
 ### Getting started
 
